@@ -13,7 +13,7 @@ CountryApp est une application web de découverte des pays du monde, avec un qui
 - **Recherche** : Barre de recherche pour filtrer les pays par nom.
 - **Détails pays** : Page détaillée affichant le drapeau, la capitale, la population et la superficie du pays.
 - **Quiz interactif** : Jeu de 20 questions où l'utilisateur doit identifier le drapeau correspondant au pays.
-- **Scoring** : Système de score avec feedback visuel sous forme de médailles selon la performance.
+- **Scoring** : Système de score avec icones selon la performance.
 
 ---
 
