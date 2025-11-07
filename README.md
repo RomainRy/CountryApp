@@ -1,5 +1,7 @@
 # CountryApp
 
+## Membre du groupe : Romain Royer
+
 ## Résumé
 
 CountryApp est une application web de découverte des pays du monde, avec un quiz interactif permettant à l'utilisateur de tester ses connaissances sur les drapeaux.
